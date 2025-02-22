@@ -32,7 +32,7 @@ This project simulates traffic monitoring using AWS IoT Core and Lambda. Think o
 
 ### Sequence Diagram 🤖➡️☁️
 
-![alt text](<Graphical Visuals/Sequence Diagram.jpeg>)
+![alt text](<my-iot-core-app/graphical_visuals/Sequence Diagram.jpeg>)
 
 ---
 
