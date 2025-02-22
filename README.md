@@ -27,7 +27,7 @@ This project simulates traffic monitoring using AWS IoT Core and Lambda. Think o
 
 ### AWS Services Flow 🛠️
 
-![alt text](my-iot-core-app/graphical_visuals/AWS Services Flow.jpeg)
+![alt text](<my-iot-core-app/graphical_visuals/AWS Services Flow.jpeg>)
 
 
 ### Sequence Diagram 🤖➡️☁️
